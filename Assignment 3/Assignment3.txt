@@ -1,0 +1,6 @@
+1. A text editor is straightforward and handy for working with plain text. 
+It helps with tasks like writing, editing, and finding words, making it useful for many people. 
+Additionally, it works on different devices and systems, so you can use it wherever you need.
+
+2. Using an absolute URL is a lot more specific. It's like using GPS coordinates to get somewhere, when a relative URL
+is like giving directions from where you are now to where you need to get. 
